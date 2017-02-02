@@ -1,4 +1,4 @@
-language: shell
+language: bash
 
 script:
 - solr-client status
