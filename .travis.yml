@@ -1,7 +1,7 @@
 language: bash
 
 script:
-- solr-client status
+- ls
 
 notifications:
   slack: datacite:Wt8En0ALoTA6Kjc5EOKNDWxN
